@@ -12,7 +12,9 @@ are stored. Note that only one value of `num_strands` is possible for now, so if
 wish to calculate the dimerization probabilities of a mix of single- and double-stranded
 viruses, you should separate them into separate directories.
 
-`python dimerization_probability.py --input_file my_viral_genome.fasta --num_strands 1`
+`python dimerization_probability.py --input_path my_viral_genome.fasta --num_strands 1`
+
+You may also optionally indicate an `--output_path` argument
 
 ## TODO:
 1. Proper logging
