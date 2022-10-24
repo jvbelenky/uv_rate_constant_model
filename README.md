@@ -1,7 +1,7 @@
-# uv_rate_constant_model
+# Genomic UV Susceptibility Model
 
 Implementation of the genomic UV susceptibility model from the Ultraviolet
-Germicidal Irradiation Handbook (Kowalski, 20009), chapter 4: UV Rate Constants
+Germicidal Irradiation Handbook (Kowalski, 20009), chapter 4: UV Rate Constants.
 
 Corrections from scattering and hyperchromaticity are not included.
 
